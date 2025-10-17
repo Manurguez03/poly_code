@@ -1,5 +1,4 @@
 # 🎾 Predicting Tennis Match Upsets Using Machine Learning Approaches
-#HOLAAA 
 
 ## 📘 Project Overview
 Unexpected outcomes — known as *upsets* — are among the most fascinating aspects of professional tennis.  
