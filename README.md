@@ -361,51 +361,8 @@ Contributions are welcome! Please:
 
 ---
 
-## � License
+## 👨‍💻 Author
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 👨‍💻 Authors
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- **Jeff Sackmann** for maintaining comprehensive ATP match data
-- **ATP Tour** for making match statistics available
-- Open-source community for scikit-learn, XGBoost, and pandas
-- Academic research on sports prediction and imbalanced learning
-
----
-
-## 📞 Contact
-
-For questions, suggestions, or collaboration opportunities:
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
-- **Project Issues:** [GitHub Issues](https://github.com/yourusername/tennis-upset-prediction/issues)
-
----
-
-## 📊 Project Statistics
-
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/tennis-upset-prediction)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/tennis-upset-prediction)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/tennis-upset-prediction)
-
----
-
-**⭐ If you found this project helpful, please consider giving it a star!**
-
----
-
-*"The goal was never to perfectly predict the unpredictable, but to find signal in the noise and understand what makes tennis upsets more likely. In that mission, we succeeded."*
-
-**Last Updated:** January 2025  
-**Status:** ✅ Complete and ready for presentation
+**Manuel Rodriguez Berdud**
+- GitHub: https://github.com/Manurguez03
+- Email: manuelrguezberdud@outlook.com
