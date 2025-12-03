@@ -17,10 +17,9 @@ Using **22,526 ATP match records** from 2016-2024, we developed predictive model
 ## 🎯 Key Achievements
 
 ✅ **75.1% F1-Score** with XGBoost + SMOTE (balanced performance)  
-✅ **85.0% Recall** (upset detection rate)  
+✅ **80.0% Recall** (upset detection rate)  
 ✅ **94.5% ROC-AUC** (overall discrimination ability)  
 ✅ **83 engineered features** capturing form, surface skills, and head-to-head dynamics  
-✅ **47.5% recall improvement** through class imbalance handling  
 ✅ Identified **experience gap** as #1 predictor (not rankings!)  
 
 ---
@@ -213,73 +212,8 @@ COMP. DATA ANALYSIS PROJECT/
 ├── 📝 Documentation/
 │   ├── README.md                        # This file
 │   ├── PROJECT_SUMMARY.md               # Detailed findings and insights
-│   └── PRESENTATION_GUIDE.md            # Quick reference for presentations
-│
-└── 📋 Requirements/
-    └── requirements.txt                 # Python dependencies
+└──
 ```
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-```bash
-Python 3.8+
-Jupyter Notebook
-```
-
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/tennis-upset-prediction.git
-cd tennis-upset-prediction
-```
-
-2. **Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-Required packages:
-- pandas
-- numpy
-- scikit-learn
-- xgboost
-- imbalanced-learn (for SMOTE)
-- matplotlib
-- seaborn
-- openpyxl (for Excel files)
-
-3. **Run the notebooks**
-```bash
-jupyter notebook
-```
-
-### Quick Start
-
-1. **View Results:** Open `results.ipynb` for comprehensive analysis
-2. **Explore Data:** Check `data_cleaning.ipynb` for preprocessing steps
-3. **Understand Features:** Review `featuring.ipynb` for feature engineering
-4. **Model Training:** See `data_modeling.ipynb` for baseline models
-5. **Imbalance Handling:** Study `model_calibration&class_imbalance.ipynb`
-
----
-
-## 💡 Use Cases
-
-### ✅ Recommended Applications
-- **Sports Analytics Dashboards:** Display upset risk scores
-- **Broadcasting:** Pre-match storylines and graphics
-- **Coaching:** Data-driven opponent preparation
-- **Research:** Pattern discovery in competitive sports
-- **Education:** ML case study for imbalanced classification
-
-### ❌ Not Recommended
-- Guaranteed betting strategies (randomness + house edge)
-- Real-time in-match predictions (need different features)
-- Individual match certainty claims (inherent unpredictability)
 
 ---
 
@@ -340,24 +274,6 @@ jupyter notebook
 - Tennis prediction using machine learning (Various sports analytics papers)
 - Imbalanced classification techniques in sports analytics
 - Feature importance in ensemble methods
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Areas for Contribution
-- Additional feature engineering ideas
-- Alternative modeling approaches
-- Visualization improvements
-- Documentation enhancements
-- Code optimization
 
 ---
 

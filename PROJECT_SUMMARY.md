@@ -208,42 +208,6 @@ Threshold (Max): Recall = 98.1%, F1 = 0.590 (High sensitivity)
 
 ---
 
-## 🎓 Recommendations by Use Case
-
-### For Sports Analytics Dashboards:
-```python
-Model: XGBoost + SMOTE
-Threshold: 0.5 (balanced)
-Focus: experience_gap_pct, form_diff_90d, surface_advantage
-Output: Upset probability + confidence intervals
-```
-
-### For Betting/Prediction Markets:
-```python
-Model: XGBoost + SMOTE
-Threshold: 0.5-0.6 (optimize for value)
-Focus: Form differentials, surface mismatches
-Warning: Use for value identification, not guarantees
-```
-
-### For Alert Systems (High Sensitivity):
-```python
-Model: Random Forest + Threshold Tuning
-Threshold: 0.1 (maximize recall)
-Output: 98% upset detection rate
-Trade-off: More false positives (42% precision)
-```
-
-### For Stakeholder Presentations:
-```python
-Model: Logistic Regression (interpretable)
-Show: Feature coefficients and odds ratios
-Explain: Simple linear relationships
-Visualize: SHAP values for complex models
-```
-
----
-
 ## 📊 Project Success Metrics
 
 ✅ **22,526** matches processed (8 years)  
@@ -301,7 +265,3 @@ Visualize: SHAP values for complex models
 
 *"The goal was never to perfectly predict the unpredictable, but to find signal in the noise and understand what makes tennis upsets more likely. In that mission, we succeeded."*
 
----
-
-**Last Updated:** 2025-01-20  
-**Status:** ✅ Project Complete and Ready for Presentation
